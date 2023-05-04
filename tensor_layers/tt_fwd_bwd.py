@@ -1,7 +1,7 @@
 import torch
 import numpy as np
 import torch.nn.functional as F
-from qtorch.quant import fixed_point_quantize, block_quantize, float_quantize
+# from qtorch.quant import fixed_point_quantize, block_quantize, float_quantize
 
 
 # Author: Alvin Liu
